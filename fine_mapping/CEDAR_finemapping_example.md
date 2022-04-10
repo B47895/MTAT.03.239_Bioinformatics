@@ -36,7 +36,7 @@ Import genotype data near two genes (ARHGEF3 and LCT)
 
 ```r
 arhgef3_genotypes = readRDS("CEDAR_ARHGEF3_genotypes.rds")
-lct_genotyes = readRDS("CEDAR_LCT_genotypes.rds")
+lct_genotypes = readRDS("CEDAR_LCT_genotypes.rds")
 ```
 
 # Perform fine mapping for the ARHGEF3 gene
